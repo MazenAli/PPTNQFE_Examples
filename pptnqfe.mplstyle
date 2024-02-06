@@ -1,15 +1,8 @@
+figure.figsize : 4.9, 3.5
+font.size:    10.0
 font.family: serif
-font.serif: Times, Palatino, New Century Schoolbook, Bookman, Computer Modern Roman
-font.size: 10
-figure.figsize: 6.4, 4.8
-figure.dpi: 100
-savefig.dpi: 300
-axes.labelsize: 10
-axes.titlesize: 10
-xtick.labelsize: 8
-ytick.labelsize: 8
-legend.fontsize: 8
-lines.linewidth: 1
-lines.markersize: 6
+font.serif: Times
+axes.titlesize: medium
+figure.titlesize: medium
 text.usetex: True
-text.latex.preamble: \usepackage{amsmath}\usepackage{braket}
+text.latex.preamble: \usepackage{amsmath}\usepackage{amssymb}\usepackage{braket}
